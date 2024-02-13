@@ -3,6 +3,7 @@ TERRAFORM BASIC
 Prerequisite : 
 
 a) AWS Free Tier Account 
+
 b) AWSCLI & Terraform instalation   
 
 
