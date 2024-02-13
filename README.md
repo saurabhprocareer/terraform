@@ -1,4 +1,4 @@
-TERRAFORM BASIC
+Ec2 Creation using Terraform
 
 Prerequisite : 
 
@@ -6,6 +6,7 @@ a) AWS Free Tier Account
 
 b) AWSCLI & Terraform instalation   
 
+TERRAFORM BASIC Commands
 
 1. AWS Authentication
 a) aws configure
