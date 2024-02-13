@@ -5,7 +5,7 @@ TERRAFORM BASIC
 a) aws configure
 b) cat ~/.aws/config
 
-2. git clone git clone https://github.com/saurabhprocareer/terraform.git
+2. git clone https://github.com/saurabhprocareer/terraform.git
 
 3. cd ec2
 4. terraform init
