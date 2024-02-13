@@ -1,5 +1,8 @@
 TERRAFORM BASIC
 
+Prerequisite : 
+    AWS Free Tier Account 
+
 
 1. AWS Authentication
 a) aws configure
